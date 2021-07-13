@@ -1,0 +1,16 @@
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_1\App_aula_1\bin\Debug\net5.0\App_aula_1.exe
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_1\App_aula_1\bin\Debug\net5.0\App_aula_1.deps.json
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_1\App_aula_1\bin\Debug\net5.0\App_aula_1.runtimeconfig.json
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_1\App_aula_1\bin\Debug\net5.0\App_aula_1.runtimeconfig.dev.json
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_1\App_aula_1\bin\Debug\net5.0\App_aula_1.dll
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_1\App_aula_1\bin\Debug\net5.0\ref\App_aula_1.dll
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_1\App_aula_1\bin\Debug\net5.0\App_aula_1.pdb
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_1\App_aula_1\obj\Debug\net5.0\App_aula_1.csproj.AssemblyReference.cache
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_1\App_aula_1\obj\Debug\net5.0\App_aula_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_1\App_aula_1\obj\Debug\net5.0\App_aula_1.AssemblyInfoInputs.cache
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_1\App_aula_1\obj\Debug\net5.0\App_aula_1.AssemblyInfo.cs
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_1\App_aula_1\obj\Debug\net5.0\App_aula_1.csproj.CoreCompileInputs.cache
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_1\App_aula_1\obj\Debug\net5.0\App_aula_1.dll
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_1\App_aula_1\obj\Debug\net5.0\ref\App_aula_1.dll
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_1\App_aula_1\obj\Debug\net5.0\App_aula_1.pdb
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_1\App_aula_1\obj\Debug\net5.0\App_aula_1.genruntimeconfig.cache

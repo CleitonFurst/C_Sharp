@@ -1,0 +1,16 @@
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_02\App_aula_02\bin\Debug\net5.0\App_aula_02.exe
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_02\App_aula_02\bin\Debug\net5.0\App_aula_02.deps.json
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_02\App_aula_02\bin\Debug\net5.0\App_aula_02.runtimeconfig.json
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_02\App_aula_02\bin\Debug\net5.0\App_aula_02.runtimeconfig.dev.json
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_02\App_aula_02\bin\Debug\net5.0\App_aula_02.dll
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_02\App_aula_02\bin\Debug\net5.0\ref\App_aula_02.dll
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_02\App_aula_02\bin\Debug\net5.0\App_aula_02.pdb
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_02\App_aula_02\obj\Debug\net5.0\App_aula_02.csproj.AssemblyReference.cache
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_02\App_aula_02\obj\Debug\net5.0\App_aula_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_02\App_aula_02\obj\Debug\net5.0\App_aula_02.AssemblyInfoInputs.cache
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_02\App_aula_02\obj\Debug\net5.0\App_aula_02.AssemblyInfo.cs
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_02\App_aula_02\obj\Debug\net5.0\App_aula_02.csproj.CoreCompileInputs.cache
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_02\App_aula_02\obj\Debug\net5.0\App_aula_02.dll
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_02\App_aula_02\obj\Debug\net5.0\ref\App_aula_02.dll
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_02\App_aula_02\obj\Debug\net5.0\App_aula_02.pdb
+C:\Users\furst\OneDrive\Área de Trabalho\Aulas_Modulo_3\C_Sharp\App_aula_02\App_aula_02\obj\Debug\net5.0\App_aula_02.genruntimeconfig.cache
