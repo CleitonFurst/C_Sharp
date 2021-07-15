@@ -10,7 +10,7 @@ using System.Linq;
 //{
 //    result += result *( num -1);
 
-//    num = num - 1;
+//    num--;
 //}
 
 //Console.WriteLine($"O Fatorial de {aux} é igual á {result}");
